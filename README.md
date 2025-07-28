@@ -78,6 +78,18 @@ The main result was the transformation of an analysis cycle that took days into 
 * **Data Engineering:** Implementing an ETL (Extract, Transform, Load) pipeline with `Pandas` and `NumPy` to read, clean, group, format, and enrich large volumes of time-series data.
 * **UI/UX Design:** Creating a functional interface focused on user experience, including real-time feedback and error recovery features.
 
+---
+
+### Application Screenshots
+
+**Initial Screen**
+![Screenshot of the initial screen](images/print1.png)
+
+**Main Screen During Execution**
+![Screenshot of the main screen showing the task queue and the status console](images/print2.png)
+
+**Execution Summary Window**
+![Dialog window showing the summary of the completed process with options to open the log and the reports folder](images/print3.png)
 
 &nbsp;
 &nbsp;
@@ -167,3 +179,17 @@ O principal resultado foi a transformação de um ciclo de análise que levava d
 * **Comunicação de Rede:** Uso da biblioteca `ftplib` para interagir com servidores FTP, navegar em diretórios remotos e transferir arquivos.
 * **Engenharia de Dados:** Implementação de um pipeline de ETL (Extração, Transformação, Carga) com `Pandas` e `NumPy` para ler, limpar, agrupar, formatar e enriquecer grandes volumes de dados de séries temporais.
 * **Design de UI/UX:** Criação de uma interface funcional com foco na experiência do usuário e funcionalidades para recuperação de erros.
+
+---
+
+### Screenshots da Aplicação
+
+**Tela Inicial**
+![Screenshot da tela inicial](images/print1.png)
+
+**Tela Principal em execução**
+![Screenshot da tela principal mostrando a fila de tarefas e o console de status](images/print2.png)
+
+**Janela de Resumo da Execução**
+![Janela de diálogo mostrando o resumo do processamento concluído com opções para abrir log e pasta de relatórios](images/print3.png)
+
